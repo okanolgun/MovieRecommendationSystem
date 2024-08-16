@@ -1,6 +1,6 @@
 # MovieRecommendationSystem
 
-A movie recommendation system that you can run on your own localhost. If you choose a movie from the list, the site we created using pickle trains the data of movies, with a machine learning model, and recommends similar movies.
+A movie recommendation system that you can run on your own localhost. If you choose a movie from the list, the site that we created using pickle, trains the data of movies, with a machine learning, and recommends similar movies.
 
 A complete machine learning and data cleaning-processing project from start to finish.
 
