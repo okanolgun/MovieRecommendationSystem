@@ -1,0 +1,18 @@
+First create a empty folder in your Project path. 
+
+Then name it with 'artifacts'.
+
+After you run that code in your Jupyter Notebook, 
+
+
+import pickle 
+
+pickle.dump(new_df, open('artificats/movie_list.pkl', 'wb'))
+pickle.dump(similarity, open('artificats/similarity.pkl', 'wb'))
+
+
+There will be 2 model in that 'artifacts' folder. 
+
+I couldn't upload it because the size was too large.
+
+Sry for my bad. 
