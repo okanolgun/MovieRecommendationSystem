@@ -1,0 +1,5 @@
+You can use the base conda environment. 
+
+If you do not want to use the base conda environment, you will need to create a new environment in your project file. 
+
+You can continue your project by installing only the necessary libraries.
