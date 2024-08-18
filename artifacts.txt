@@ -2,7 +2,7 @@ First create a empty folder in your Project path.
 
 Then name it with 'artifacts'.
 
-After you run that code below in your Jupyter Notebook, 
+After you run that code in your Jupyter Notebook, 
 
 
 import pickle 
