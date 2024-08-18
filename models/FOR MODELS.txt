@@ -1,0 +1,3 @@
+If you look at the codes in the jupiter notebook, we saved our machine learning models in our project files with model.drop methods. 
+
+We used your models in the app.py and setup.py files, with the name of our file being "artificats".
