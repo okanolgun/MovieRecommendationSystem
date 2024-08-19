@@ -7,3 +7,5 @@ Using IMDB data, movie descriptions, cast team and director staff, we created a 
 Then, we looked at the connections and similarities between these columns with CounterVectorizer. 
 
 You will be able to see 5 recommended movies based on the movie you choose on the site you will open on your own locak host.
+
+PS: Do not forget to change your API key with IMDB official site. You can create a new API KEY with logging the IMDB. 
